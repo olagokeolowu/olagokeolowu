@@ -1,23 +1,23 @@
 <img src="https://chatgpt.com/s/m_6862ebefa9e081918a32f16ae5ca588a" alt="Olagoke Olowu banner" width="100%">
 
-<h1 align="center">Hi there 👋, I am # **Olagoke Olowu**</h1>
+<h1 align="center">Hi there 👋, I am  Olagoke Olowu</h1>
 <h3 align="center">### 🧠 Data Scientist • Data Analyst • ML Enthusiast • Python & Power BI Advocate</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=olagokeolowu&label=Profile%20views&color=0e75b6&style=flat" alt="olagokeolowu" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=olagokeolowu" alt="olagokeolowu" /></a> </p>
 
-- 🔭 I’m currently working on [**Quantium Retail Analytics Project**]([View Project](https://github.com/olagokeolowu/quantium-retail-analysis))
+- 🔭 I’m currently working on **Quantium Retail Analytics Project**([View Project](https://github.com/olagokeolowu/quantium-retail-analysis))
 
 - 🌱 I’m currently learning **- Data Engineering Foundations - Power BI Advanced DAX & Reporting - MLOps with Azure - SQL Optimization & DBT**
 
-- 👯 I’m looking to collaborate on [**AI for Healthcare Visualisation**]([Get in touch to brainstorm](mailto:olagokeolowu@gmail.com))
+- 👯 I’m looking to collaborate on **AI for Healthcare Visualisation**([Get in touch to brainstorm](mailto:olagokeolowu@gmail.com))
 
-- 🤝 I’m looking for help with [**Streamlining Data Pipelines for Public Datasets**]([Let’s build it](mailto:olagokeolowu@gmail.com))
+- 🤝 I’m looking for help with **Streamlining Data Pipelines for Public Datasets**([Let’s build it](mailto:olagokeolowu@gmail.com))
 
-- 👨‍💻 All of my projects are available at [[GitHub Portfolio](https://github.com/olagokeolowu)]([GitHub Portfolio](https://github.com/olagokeolowu))
+- 👨‍💻 All of my projects are available at ([GitHub Portfolio](https://github.com/olagokeolowu))
 
-- 📝 I regularly write articles on [Coming soon: [Medium Blog](#)](Coming soon: [Medium Blog](#))
+- 📝 I regularly write articles on (Coming soon: [Medium Blog](#))
 
 - 💬 Ask me about **Python • Pandas • Streamlit • SQL • Power BI • Data Cleaning • Visual Storytelling**
 
