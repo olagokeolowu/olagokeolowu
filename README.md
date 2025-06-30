@@ -1,4 +1,5 @@
-<img src="https://chatgpt.com/s/m_6862ebefa9e081918a32f16ae5ca588a" alt="Olagoke Olowu banner" width="100%">
+
+<img src="https://imgur.com/Ve8YHTW.png" alt="Olagoke Olowu banner" width="100%">
 
 <h1 align="center">Hi there 👋, I am  Olagoke Olowu</h1>
 <h3 align="center"> 🧠 Data Scientist • Data Analyst • ML Enthusiast • Python & Power BI Advocate</h3>
