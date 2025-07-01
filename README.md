@@ -16,7 +16,7 @@
 
 - 🤝 I’m looking for help with **Streamlining Data Pipelines for Public Datasets**([Let’s build it](mailto:olagokeolowu@gmail.com))
 
-- 👨‍💻 All of my projects are available at ([GitHub Portfolio](https://github.com/olagokeolowu))
+- 👨‍💻 All of my projects are available at ([GitHub Portfolio](https://github.com/olagokeolowu?tab=repositories))
 
 - 📝 I regularly write articles on (Coming soon: [Medium Blog](#))
 
