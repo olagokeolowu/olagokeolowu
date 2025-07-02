@@ -24,7 +24,7 @@
 
 - 📫 How to reach me ****olagokeolowu@gmail.com** [LinkedIn](https://www.linkedin.com/in/olagoke-olowu-6306b0108/)**
 
-- ⚡ Fun fact **I built a COVID X-ray classifier with Streamlit and convinced a non-tech friend that it could diagnose him 😄**
+- ⚡ Fun fact **I built a COVID X-ray classifier with Streamlit and convinced a non-tech friend that it could diagnose him 😄.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
